@@ -1,0 +1,5 @@
+https://t4s.tech/realizatsiya-binarnogo-dereva-poiska-v-si/ (b_trees)
+https://metanit.com/cpp/c/ (c_learnbook)
+http://nikulux.ru/c-zadachi/binarnoe-derevo/ (b_trees)
+https://younglinux.info/ (linux, bash)
+http://nigal.freeshell.org/42/exam-review.php (exam_ex)
